@@ -1,20 +1,20 @@
-
 {
   "status": 200,
   "slider": [
-    "qureka": "0",
-        "id": "0",
-        "game_name": "Join Clash 3D",
-        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
-        "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
-      },
     {
-        "qureka": "0",
-        "id": "0",
-        "game_name": "Snack Game",
-        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/snackgame.png",
-        "game_link": "https://gulper.io/"
-      },
+      "qureka": "0",
+      "id": "0",
+      "game_name": "Join Clash 3D",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
+      "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+    },
+    {
+      "qureka": "0",
+      "id": "0",
+      "game_name": "Snack Game",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/snackgame.png",
+      "game_link": "https://gulper.io/"
+    },
     {
       "qureka": "0",
       "id": "0",
@@ -22,7 +22,7 @@
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
       "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=255&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
- {
+    {
       "qureka": "0",
       "id": "0",
       "game_name": "Speed Car",
@@ -43,7 +43,7 @@
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/bus3dparking.png",
       "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
-     {
+    {
       "qureka": "1",
       "id": "2",
       "game_name": "Play and Win",
@@ -155,41 +155,36 @@
       "id": "2",
       "title": "Title 1",
       "data": "https://pub.dev/",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU"
-      ,
-      "category":"Car"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU",
+      "category": "Car"
     },
     {
-        "id": "2",
-        "title": "Title 1",
-        "data": "https://pub.dev/",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU"
-        ,
-        "category":"Car"
-      },
-      {
-        "id": "2",
-        "title": "Title 1",
-        "data": "https://pub.dev/",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU"
-        ,
-        "category":"Car"
-      },
-      {
-        "id": "2",
-        "title": "Title 1",
-        "data": "https://pub.dev/",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU"
-        ,
-        "category":"Car"
-      },{
-        "id": "2",
-        "title": "Title 1",
-        "data": "https://pub.dev/",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU"
-        ,
-        "category":"Car"
-      }
-
+      "id": "2",
+      "title": "Title 1",
+      "data": "https://pub.dev/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU",
+      "category": "Car"
+    },
+    {
+      "id": "2",
+      "title": "Title 1",
+      "data": "https://pub.dev/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU",
+      "category": "Car"
+    },
+    {
+      "id": "2",
+      "title": "Title 1",
+      "data": "https://pub.dev/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU",
+      "category": "Car"
+    },
+    {
+      "id": "2",
+      "title": "Title 1",
+      "data": "https://pub.dev/",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfRL__onfbBmucTmzAwOmdV7ISJNxu_Dsew&usqp=CAU",
+      "category": "Car"
+    }
   ]
 }
