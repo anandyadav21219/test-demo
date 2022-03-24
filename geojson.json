@@ -1,8 +1,9 @@
-[
+{
+  "type": "FeatureCollection",
+  "features": [
   {
     "type": "Feature",
     "properties": {
-"type": "Feature",
       "Admin1": "Maharashtra",
       "Admin1_cur": "IND-MH",
       "Admin3": "Nashik",
@@ -20941,3 +20942,4 @@
     }
   }
 ]
+}
